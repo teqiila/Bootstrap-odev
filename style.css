@@ -1,9 +1,22 @@
 body {
     background: #E9ECEF;
+    background-image: url(/img/coffee-img2.jpeg);
+    background-attachment: fixed;
+    background-size:cover;
 }
 .link {
     text-decoration: none;
 }
 .col {
     color: rgb(132, 76, 4);
+}
+.moliendo {
+    background-color: rgb(87, 39, 1);
+}
+.navbar {
+    position: sticky;
+    top: 0;
+}
+.kahveni-bul {
+    background-color: rgba(148, 133, 41, 0.549);
 }
