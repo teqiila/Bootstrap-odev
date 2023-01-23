@@ -20,3 +20,8 @@ body {
 .kahveni-bul {
     background-color: rgba(148, 133, 41, 0.549);
 }
+.card {
+    height: 350px;
+    background-color: rgba(189, 105, 105, 0.567);
+    margin-top: 50px;
+}
